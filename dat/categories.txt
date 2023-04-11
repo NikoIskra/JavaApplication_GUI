@@ -1,0 +1,9 @@
+1
+Hrana
+U ovoj kategoriji se sadrze svi predmeti vezani za hranu
+2
+Tehnicka oprema
+U ovoj kategoriji se sadrze svi predmeti vezani za tehnicku opremu
+3
+Literatura
+U ovoj kategoriji se sadrze svi predmeti vezani za literaturu

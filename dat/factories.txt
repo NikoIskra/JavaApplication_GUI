@@ -1,0 +1,24 @@
+1
+Tvornica kulture Zagreb
+Konavovska
+2
+Zagreb
+5
+2
+Tvornica Rijeka
+Vukovarska
+13
+Rijeka
+10
+3
+Tvornica hrane Nova Gradiska
+Strossmayerova
+8
+Gradiska
+1
+4
+Tvornica Almos Kutina
+Branitelja
+37
+Kutina
+4
